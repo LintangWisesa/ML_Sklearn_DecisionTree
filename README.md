@@ -2,7 +2,7 @@
 
 # Decision Tree Classifier & Regressor
 
-## 1⃣ Decision Tree Classifier
+## 🅰 Decision Tree Classifier
 
 ```python
 import pandas as pd
@@ -84,7 +84,7 @@ tree.export_graphviz(
 
 #
 
-## 2⃣ Decision Tree Regressor
+## 🅱 Decision Tree Regressor
 
 ```python
 import numpy as np
